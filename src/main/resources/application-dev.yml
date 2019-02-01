@@ -1,0 +1,7 @@
+server:
+  port: 8888
+  servlet.context-path: /spring-boot-demo
+srpingboot:
+ id: 1
+ remark: "2.1.0"
+ version: "remark: ${remark}"
